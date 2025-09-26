@@ -11,41 +11,63 @@
 - **Backend / Other:** PHP (basic)  
 - **Tools & Concepts:** Git, RESTful APIs, Responsive Design, Version Control  
 - **Learning / Interested in:** Modern JavaScript (e.g. Next.js), TypeScript, Node.js, Frontend performance optimization  
+hancing your current one) that showcases your projects, blog, and case studies  
+
+# 👋 Hi, I’m **Dilip Bist**  
+
+💻 **Frontend Developer** | Crafting responsive, user-friendly, and visually appealing web interfaces  
 
 ---
 
-## 📂 Featured Projects
+## 🧑‍💻 About Me  
 
-Here are a few repositories I’m proud of (click to explore):
-
-- [**Electronic-ecommerce**](https://github.com/DilipBist/Electronic-e-commerce) — a full-stack / frontend e-commerce site built in JavaScript  
-- [**CarRental-HomePage**](https://github.com/DilipBist/CarRental-HomePage) — responsive landing page for car rental service  
-- [**Furniture-Frontend**](https://github.com/DilipBist/Furniture-Frontend) — UI for furniture shop using CSS, HTML, and basic backend logic  
-- [**Fashion-Ecommerce**](https://github.com/DilipBist/Fashion-Ecommerce-) — fashion shop UI with interactive features  
-- [**CRM**](https://github.com/DilipBist/CRM) — simple CRM interface built in PHP + frontend  
-
-> *Note: Check out my pinned repos above for quick access to your best works.*  
+- 🎨 Skilled in building **modern UI/UX** with **React, Tailwind CSS, and Bootstrap**  
+- 🛠️ Experienced with **HTML, CSS, JavaScript, and jQuery**  
+- ⚙️ Basic backend understanding with **PHP**  
+- 🌱 Currently learning **Next.js & TypeScript** to strengthen my frontend expertise  
+- 🚀 Passionate about creating seamless digital experiences and optimizing performance  
 
 ---
 
-## 🚀 What I’m Working On & Goals
+## 🛠️ Tech Stack  
 
-- Improving UI/UX by diving deeper into **React best practices** and performance optimizations  
-- Exploring **TypeScript**, **Next.js**, and more advanced React tooling  
-- Contributing to open-source libraries and projects — especially in the frontend space  
-- Building a portfolio site (or enhancing your current one) that showcases your projects, blog, and case studies  
-
----
-
-## 📬 Let’s Connect
-
-- **Portfolio / Website:** [dilipbist.github.io/Dilip-portfolio](https://dilipbist.github.io/Dilip-portfolio/)  
-- **LinkedIn:** [in/dilip-bist-9a6734278](https://www.linkedin.com/in/dilip-bist-9a6734278)  
-- **Email:** dilipbist879@gmail.com  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 📂 Featured Projects  
 
-<!-- You can insert dynamic badges / stats here using GitHub Readme Stats or similar services -->
+- [**Electronic E-commerce**](https://github.com/DilipBist/Electronic-e-commerce) – Fully responsive e-commerce site  
+- [**Car Rental Homepage**](https://github.com/DilipBist/CarRental-HomePage) – Landing page UI for car rental services  
+- [**Furniture Frontend**](https://github.com/DilipBist/Furniture-Frontend) – Modern UI for a furniture shop  
+- [**Fashion E-commerce**](https://github.com/DilipBist/Fashion-Ecommerce-) – Responsive shopping UI  
+- [**CRM (Basic)**](https://github.com/DilipBist/CRM) – Simple CRM system with PHP integration  
 
+✨ More projects available on my repositories!  
+
+---
+
+## 📊 GitHub Stats  
+
+![Dilip’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DilipBist&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilipBist&layout=compact&theme=tokyonight)  
+
+---
+
+## 📬 Connect With Me  
+
+- 🌐 [Portfolio Website](https://dilipbist.github.io/Dilip-portfolio/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dilip-bist-9a6734278)  
+- 📧 [Email](mailto:dilipbist879@gmail.com)  
+
+---
+
+⚡ *“Frontend development is not just about code, it’s about crafting delightful digital experiences.”*  
