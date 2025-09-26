@@ -1,30 +1,16 @@
-# 👋 Hi, I’m **Dilip Bist**
-
-**Frontend Developer** | Passionate about building clean, responsive, and interactive web experiences
-
----
-
-## 🧰 Tech Stack & Skills
-
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), jQuery  
-- **Frameworks / Libraries:** React, Tailwind CSS, Bootstrap  
-- **Backend / Other:** PHP (basic)  
-- **Tools & Concepts:** Git, RESTful APIs, Responsive Design, Version Control  
-- **Learning / Interested in:** Modern JavaScript (e.g. Next.js), TypeScript, Node.js, Frontend performance optimization  
-hancing your current one) that showcases your projects, blog, and case studies  
-
 # 👋 Hi, I’m **Dilip Bist**  
 
-💻 **Frontend Developer** | Crafting responsive, user-friendly, and visually appealing web interfaces  
+💻 **Frontend Developer** | Passionate about building clean, responsive, and interactive web experiences
 
 ---
 
 ## 🧑‍💻 About Me  
 
-- 🎨 Skilled in building **modern UI/UX** with **React, Tailwind CSS, and Bootstrap**  
+- 🎨 Skilled in building **modern UI/UX** with **JavaScript, Tailwind CSS, and Bootstrap**  
 - 🛠️ Experienced with **HTML, CSS, JavaScript, and jQuery**  
 - ⚙️ Basic backend understanding with **PHP**  
-- 🌱 Currently learning **Next.js & TypeScript** to strengthen my frontend expertise  
+- **Tools & Concepts:** Git, RESTful APIs, Responsive Design, Version Control  
+- 🌱 Currently learning **React, Next.js & TypeScript** to strengthen my frontend expertise  
 - 🚀 Passionate about creating seamless digital experiences and optimizing performance  
 
 ---
@@ -49,7 +35,7 @@ hancing your current one) that showcases your projects, blog, and case studies
 - [**Car Rental Homepage**](https://github.com/DilipBist/CarRental-HomePage) – Landing page UI for car rental services  
 - [**Furniture Frontend**](https://github.com/DilipBist/Furniture-Frontend) – Modern UI for a furniture shop  
 - [**Fashion E-commerce**](https://github.com/DilipBist/Fashion-Ecommerce-) – Responsive shopping UI  
-- [**CRM (Basic)**](https://github.com/DilipBist/CRM) – Simple CRM system with PHP integration  
+- [**CRM**](https://github.com/DilipBist/CRM) – CRM system Frontend Created in PHP  
 
 ✨ More projects available on my repositories!  
 
