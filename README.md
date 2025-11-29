@@ -23,11 +23,11 @@
 
 ## 📂 Featured Projects  
 
+- [**CRM**](https://github.com/DilipBist/CRM) – CRM system Frontend Created in PHP  
 - [**Electronic E-commerce**](https://github.com/DilipBist/Electronic-e-commerce) – Fully responsive e-commerce site  
 - [**Car Rental Homepage**](https://github.com/DilipBist/CarRental-HomePage) – Landing page UI for car rental services  
 - [**Furniture Frontend**](https://github.com/DilipBist/Furniture-Frontend) – Modern UI for a furniture shop  
-- [**Fashion E-commerce**](https://github.com/DilipBist/Fashion-Ecommerce-) – Responsive shopping UI  
-- [**CRM**](https://github.com/DilipBist/CRM) – CRM system Frontend Created in PHP  
+
 
 ✨ More projects available on my repositories!  
 
