@@ -8,7 +8,7 @@
 
 - 🎨 Skilled in building **modern UI/UX** with **JavaScript, Tailwind CSS, and Bootstrap**  
 - 🛠️ Experienced with **HTML, CSS, JavaScript, and jQuery**  
-- ⚙️ Basic backend understanding with **PHP**  
+- ⚙️ Basic backend understanding  
 - **Tools & Concepts:** Git, RESTful APIs, Responsive Design, Version Control  
 - 🌱 Currently learning **React, Next.js & TypeScript** to strengthen my frontend expertise  
 - 🚀 Passionate about creating seamless digital experiences and optimizing performance  
@@ -30,12 +30,6 @@
 - [**CRM**](https://github.com/DilipBist/CRM) – CRM system Frontend Created in PHP  
 
 ✨ More projects available on my repositories!  
-
----
-
-## 📊 GitHub Stats  
-
-![Dilip’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DilipBist&show_icons=true&theme=tokyonight)       ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilipBist&layout=compact&theme=tokyonight)  
 
 ---
 
